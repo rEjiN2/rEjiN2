@@ -7,11 +7,11 @@
 
  
 
-- 🌱 I’m currently learning **Typescript**
+
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 💬 Ask me about **Javascript,NextJs, NodeJs, ExpressJs, React and Mongodb**
+- 💬 Ask me about **Javascript,NextJs,Typescript, NodeJs, ExpressJs, React and Mongodb**
 
 - 📫 How to reach me **rejin374@gmail.com**
 
