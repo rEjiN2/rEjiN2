@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rejin374@gmail.com**
 
-- 🌐 Visit me at  **www.rejin.online**
+- 🌐 Visit me at  **[www.rejin.com](https://www.rejin.savehubonline.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
