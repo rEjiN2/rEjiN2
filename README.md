@@ -74,11 +74,7 @@ I'm a fullstack developer who loves turning ideas into fast, reliable web applic
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=rejin2&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rejin2&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy-six-lilac.vercel.app/?username=rejin2&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
