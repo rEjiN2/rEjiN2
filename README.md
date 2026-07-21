@@ -10,7 +10,7 @@
 </p>
 
 <a href="mailto:rejin374@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.rejin.savehubonline.com/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="[https://www.rejin.savehubonline.com/](https://portfolio-mu-gilt-38.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/rejin-aniyan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -24,7 +24,7 @@ I'm a fullstack developer who loves turning ideas into fast, reliable web applic
 - 🔭 I build **web applications** end-to-end, frontend to backend
 - 👯 I'm looking to **collaborate on web application projects**
 - 💬 Ask me about **JavaScript, TypeScript, Next.js, React, Node.js, Express.js, and MongoDB**
-- 🌐 Portfolio: **[rejin.savehubonline.com](https://www.rejin.savehubonline.com/)**
+- 🌐 Portfolio: **[rejin.savehubonline.com]([https://www.rejin.savehubonline.com/](https://portfolio-mu-gilt-38.vercel.app/))**
 - 📫 Reach me at: **rejin374@gmail.com**
 
 ---
