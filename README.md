@@ -10,7 +10,7 @@
 </p>
 
 <a href="mailto:rejin374@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="[https://www.rejin.savehubonline.com/](https://portfolio-mu-gilt-38.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://portfolio-mu-gilt-38.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/rejin-aniyan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -24,7 +24,7 @@ I'm a fullstack developer who loves turning ideas into fast, reliable web applic
 - 🔭 I build **web applications** end-to-end, frontend to backend
 - 👯 I'm looking to **collaborate on web application projects**
 - 💬 Ask me about **JavaScript, TypeScript, Next.js, React, Node.js, Express.js, and MongoDB**
-- 🌐 Portfolio: **[rejin.savehubonline.com]([https://www.rejin.savehubonline.com/](https://portfolio-mu-gilt-38.vercel.app/))**
+- 🌐 Portfolio: **[portfolio-mu-gilt-38.vercel.app](https://portfolio-mu-gilt-38.vercel.app/)**
 - 📫 Reach me at: **rejin374@gmail.com**
 
 ---
@@ -69,12 +69,12 @@ I'm a fullstack developer who loves turning ideas into fast, reliable web applic
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rejin2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejin2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-nu-bay-55.vercel.app/api?username=rejin2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-nu-bay-55.vercel.app/api/top-langs?username=rejin2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rejin2&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=rejin2&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
